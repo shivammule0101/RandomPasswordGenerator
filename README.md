@@ -189,12 +189,6 @@ The layout adapts to:
 
 ---
 
-## 📸 Screenshot
-
-(Add your screenshot here)
-
----
-
 ## 🔄 Future Improvements
 
 Planned upgrades:
@@ -251,10 +245,10 @@ From this project, you learned:
 
 ## 👨‍💻 Author
 
-* Name: Shivam Milind Mule
-* GitHub:(https://github.com/shivammule0101/RandomPasswordGenerator)
-
----
+- Name: Shivam Milind Mule  
+- GitHub: https://github.com/shivammule0101  
+- Project Repo: https://github.com/shivammule0101/RandomPasswordGenerator  
+- Live Demo (Netlify): https://password-generator-by-shivam.netlify.app/
 
 ## 🤝 Contribution
 
