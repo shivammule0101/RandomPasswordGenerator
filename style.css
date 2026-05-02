@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+/* main card */
+.main {
+    background-color: #273549;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+}
+
+/* heading */
+h1 {
+    color: white;
+    font-size: 24px;
+    line-height: 1.4;
+}
+
+/* button */
+button {
+    background-color: #10B981;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* message */
+#msg {
+    color: #5CE65C;
+    margin-top: 10px;
+    display: none;
+    font-size: 14px;
+}
+
+/* password container */
+.passwords {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+/* password boxes */
+.passwords p {
+    background-color: #1F2937;
+    color: #55F991;
+    padding: 20px;
+    border-radius: 6px;
+    flex: 1;
+    text-align: center;
+    cursor: pointer;
+    font-size: 14px;
+}
